@@ -34,7 +34,6 @@
 
 html, button {
   font: 500 1rem/1.5 var(--ff-m);
-  
 }
 
 h1, h2 {
@@ -43,7 +42,7 @@ h1, h2 {
 
 h1 {
   font-size: var(--text-xl);
-  line-height: 1.25rem;
+  line-height: 5rem;
 }
 
 h2 {
