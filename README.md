@@ -8,7 +8,7 @@ Programa exclusivo, promovido pela Rocketseat com o propósito de treinar e ensi
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a hreft="#memo-licença">Agradecimento</a>
+  <a href="#-projeto">Agradecimento</a>
 </p>
 
 <p align="center">
@@ -39,6 +39,7 @@ Esse projeto está sob a licença MIT.
 
 
 ## 💗 Agradecimento
+
 Obrigada pela atenção ♥ <br>
 Espero que goste dos meus projetos e me apoie nessa jornada! beijinhos ~ <br>
 -- de Elly ✨ --
