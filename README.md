@@ -1,4 +1,4 @@
-<h1 align="center"> Portfólio Dev - Made by: Gabrielly </h1>
+<h1 align="center"> Snitap - Made by: Gabrielly </h1>
 
 <p align="center">
 Programa exclusivo, promovido pela Rocketseat com o propósito de treinar e ensinar habilidades em HTML, CSS e outras tecnologias.
@@ -31,7 +31,7 @@ Desenvolvido com as seguintes tecnologias:
 
 ## 🎀 Projeto
 
-Um portfólio com informações do usuário, como suas eperiências e conhecimentos.
+Um site sobre "Snitap", uma loja fictícia, que venderia patins.
 
 ## :memo: Licença
 
