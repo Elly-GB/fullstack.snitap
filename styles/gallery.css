@@ -10,7 +10,11 @@ section.gallery {
   }
 
   & header span {
-    font: 500 var(--text-sm)/1.5 var(--ff-m);
+    font: 500 0.875rem / 3 var(--ff-m);
+  }
+
+  & header h2 {
+    margin-top: 10px;
   }
 
   & img {
